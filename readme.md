@@ -22,4 +22,4 @@ In the second step, you have two different options you can choose from:
 ## Test Instructions
 Handlebars View todo and all the links
 * [Handlebars View todo Git Hub](https://github.com/MiguelJerome/todo-valadation)
-* [Handlebars View todo deploy to Heroku](https://frozen-harbor-56299.herokuapp.com/)
+* [Handlebars View todo deploy to Heroku](https://damp-falls-38473.herokuapp.com/ )
